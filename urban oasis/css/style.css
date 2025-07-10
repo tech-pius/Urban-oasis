@@ -99,7 +99,7 @@
 
 /*** Navbar Start ***/
 .navbar .navbar-nav .nav-link {
-    padding: 10px 15px;
+    padding:8px 10px;
     font-size: 16px;
     transition: .5s;
 }
